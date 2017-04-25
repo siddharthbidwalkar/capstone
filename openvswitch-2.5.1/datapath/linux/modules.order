@@ -1,0 +1,6 @@
+kernel//root/openvswitch-2.5.1/datapath/linux/openvswitch.ko
+kernel//root/openvswitch-2.5.1/datapath/linux/vport-geneve.ko
+kernel//root/openvswitch-2.5.1/datapath/linux/vport-gre.ko
+kernel//root/openvswitch-2.5.1/datapath/linux/vport-lisp.ko
+kernel//root/openvswitch-2.5.1/datapath/linux/vport-stt.ko
+kernel//root/openvswitch-2.5.1/datapath/linux/vport-vxlan.ko
